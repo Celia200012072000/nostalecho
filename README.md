@@ -25,7 +25,7 @@
 </head>
 <body>
     <header>
-        <h1>Bienvenue sur ma page web</h1>
+        <h1>Ceci est u ntest</h1>
     </header>
     <section>
         <p>Ceci est une simple page HTML avec du CSS intégré.</p>
